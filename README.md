@@ -46,7 +46,7 @@
 
 
 ## 표만들기
--  |/( vertical val )/| : 테이블표현
+-  |vertical val| : 테이블표현
 - :정렬
 - --- 헤더와 셀 구분
 
@@ -63,7 +63,7 @@
 
 
 #### 2) 블럭코드 (block code)
-    - 백틱(`) 3개로 html, css, java등 코드를 작성할때 사용한다
+    - 백틱(\`) 3개로 html, css, java등 코드를 작성할때 사용한다
     - ```java
     - public static void main(String[]args){
     -    System.out.println("Hello java");
